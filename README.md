@@ -1,4 +1,4 @@
-# tpintegrado_c008_g8
+# Trabajo Práctico Integrador
 Número de comisión: 008
 Grupo: 8
 Integrantes
